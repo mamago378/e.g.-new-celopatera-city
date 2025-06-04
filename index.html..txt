@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>New Celopatera City - Vision and Future</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background: #f0f8f7;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+
+    header {
+      background-color: #000;
+      color: white;
+      text-align: center;
+      padding: 30px 20px;
+      position: relative;
+    }
+
+    h1 {
+      font-size: 2.5em;
+      margin: 20px 0;
+    }
+
+    p {
+      font-size: 1.2em;
+      font-weight: lighter;
+    }
+
+    nav {
+      background-color: #004d40;
+      text-align: center;
+      padding: 10px 0;
+      box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      padding: 15px 25px;
+      display: inline-block;
+      font-size: 1.1em;
+      text-transform: uppercase;
+      transition: background-color 0.3s ease, transform 0.3s ease;
+    }
+
+    nav a:hover {
+      background-color: #00695c;
+      transform: translateY(-2px);
+    }
+
+    section {
+      padding: 40px;
+      background: #fff;
+      margin-top: 20px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .section-title {
+      color: #004d40;
+      font-size: 1.8em;
+      margin-bottom: 15px;
+      font-weight: bold;
+      text-align: left;
+    }
+
+    .feature, .vision {
+      background: white;
+      padding: 25px;
+      margin: 25px 0;
+      border-left: 5px solid #26a69a;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    }
+
+    footer {
+      background-color: #004d40;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      font-size: 1.1em;
+      position: relative;
+      bottom: 0;
+      width: 100%;
+    }
+
+    footer p {
+      margin: 0;
+    }
+
+    @media (max-width: 768px) {
+      nav a {
+        padding: 12px 18px;
+        font-size: 1em;
+      }
+
+      header {
+        padding: 30px 15px;
+      }
+
+      .section-title {
+        font-size: 1.5em;
+      }
+
+      .feature, .vision {
+        padding: 15px;
+        margin: 15px 0;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to New Celopatera City 🌆</h1>
+    <p>The city where technology and nature live in harmony</p>
+  </header>
+
+  <nav>
+    <a href="#smart-city">Smart City</a>
+    <a href="#future-vision">Future Vision</a>
+  </nav>
+
+  <section id="smart-city">
+    <h2 class="section-title">🌐 What is a Smart City?</h2>
+    <div class="feature">
+      <p>A smart city uses digital technology and data to improve urban life...</p>
+    </div>
+
+    <h2 class="section-title">🚗 Intelligent Transportation</h2>
+    <div class="feature">
+      <p>Autonomous electric vehicles move smoothly through AI-managed traffic systems...</p>
+    </div>
+
+    <h2 class="section-title">🏙️ Smart Infrastructure</h2>
+    <div class="feature">
+      <p>Buildings are energy-efficient with solar panels and smart sensors...</p>
+    </div>
+
+    <h2 class="section-title">🌱 Sustainable Living</h2>
+    <div class="feature">
+      <p>Green rooftops, vertical gardens, and zero-waste recycling systems...</p>
+    </div>
+
+    <h2 class="section-title">🧠 AI-Driven Services</h2>
+    <div class="feature">
+      <p>Artificial intelligence monitors air quality, water supply, and public safety...</p>
+    </div>
+  </section>
+
+  <section id="future-vision">
+    <h2 class="section-title">🚀 The Future of New Celopatera City</h2>
+    <div class="vision">
+      <p>
+        Imagine walking through a city where everything works in harmony with nature and innovation...
+      </p>
+    </div>
+
+    <h2 class="section-title">🌸 The Beauty of the City</h2>
+    <div class="vision">
+      <p>
+        New Celopatera City is like a living painting. Its buildings shimmer with glass and green...
+      </p>
+    </div>
+
+    <h2 class="section-title">🔋 Renewable Energy Revolution</h2>
+    <div class="feature">
+      <p>New Celopatera City aims to be a fully self-sustaining city with renewable energy solutions...</p>
+    </div>
+
+    <h2 class="section-title">🏢 Smart Buildings & Eco-Friendly Living</h2>
+    <div class="feature">
+      <p>Our buildings are designed with smart technologies that reduce energy consumption...</p>
+    </div>
+
+    <h2 class="section-title">🌿 Green Spaces for All</h2>
+    <div class="feature">
+      <p>We prioritize green spaces, such as urban parks and community gardens...</p>
+    </div>
+
+    <h2 class="section-title">🛰️ Space Exploration & Innovation</h2>
+    <div class="feature">
+      <p>Celopatera City is actively working with global space agencies...</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 New Celopatera City. The future starts now.</p>
+  </footer>
+
+</body>
+</html>
